@@ -19,7 +19,7 @@ Computer Engineer passionate about crafting scalable web and mobile apps with in
 
 
 ## 📊 GitHub Stats
-![Abel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ads-tres&show_icons=true&theme=dark)  
+![Stats](https://github-readme-stats.vercel.app/api?username=ads-tres&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ads-tres&layout=compact&theme=dark)  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ads-tres&theme=dark)
 
