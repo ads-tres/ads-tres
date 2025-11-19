@@ -7,11 +7,11 @@ Computer Engineer passionate about crafting scalable web and mobile apps with in
 
 ## 🚀 Skills
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)   
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ## 🔥 Featured Projects
-- **Task & Attendance Management System** (Ethio-Heran PLC) – Laravel + Filament + Spatie + Queues (production use for role access, payments, reports)
+- **Tutoring & Attendance Management System**
 - **K Gym Platform** – Laravel + Figma UI/UX for bookings and scheduling
 - **Daily Task Management** – Laravel 
 - **Freelance** – WooCommerce e-commerce (Elementor Pro + Shoptimizer) 
