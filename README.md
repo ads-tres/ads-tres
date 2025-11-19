@@ -17,12 +17,5 @@ Computer Engineer passionate about crafting scalable web and mobile apps with in
 - **Freelance** – WooCommerce e-commerce (Elementor Pro + Shoptimizer) 
 - **Flutter Apps** – E-commerce shopping + ServerDashboard (cross-platform)
 
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ads-tres&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ads-tres&layout=compact&theme=dark&hide=jupyter%20notebook,html)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ads-tres&theme=dark)
-
-
 ## 📫 Let's Connect
 Open to Laravel/WordPress/Flutter roles. Message me on LinkedIn!
