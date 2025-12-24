@@ -11,8 +11,8 @@ Computer Engineer passionate about crafting scalable web and mobile apps with in
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ## 🔥 Featured Projects
-- **Tutoring & Attendance Management System**
-- **K Gym Platform** – Laravel + Figma UI/UX for bookings and scheduling
+- **Tutoring Management System**
+- **K Gym Platform** – Laravel + Filament + Figma UI/UX 
 - **Daily Task Management** – Laravel 
 - **Freelance** – WooCommerce e-commerce (Elementor Pro + Shoptimizer) 
 - **Flutter Apps** – E-commerce shopping + ServerDashboard (cross-platform)
